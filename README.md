@@ -46,7 +46,7 @@ The goal of this project is to:
 
 🖼 PNG Export – Dashboard preview for documentation
 
-📂 Data Source
+***📂 Data Source***
 
 The dataset is a retail sales dataset (Excel-based) containing:
 
