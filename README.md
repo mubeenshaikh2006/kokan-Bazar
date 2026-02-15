@@ -7,21 +7,30 @@ An interactive Power BI Sales Analytics Dashboard built to analyze retail perfor
 The Kokan Bazaar Sales Dashboard helps understand:
 
 ✔ Sales performance across different regions
+
 ✔ Monthly revenue and profit trends
+
 ✔ Customer segment contribution
+
 ✔ Product category performance
+
 ✔ Shipping efficiency and order distribution
 
 Instead of analyzing spreadsheets manually, this dashboard provides a visual decision-making tool for faster and clearer analysis.
 
 ***🎯 Objective***
 
-1)The goal of this project is to:
-2)Convert raw retail data into interactive insights
-3)Identify top-performing regions and products
-4)Track profitability and sales growth
-5)Help businesses make data-driven decisions
-6)Practice real-world Data Analyst workflow
+The goal of this project is to:
+
+1)Convert raw retail data into interactive insights
+
+2)Identify top-performing regions and products
+
+3)Track profitability and sales growth
+
+4)Help businesses make data-driven decisions
+
+5)Practice real-world Data Analyst workflow
 
 ***🛠️ Tech Stack Used***
 
