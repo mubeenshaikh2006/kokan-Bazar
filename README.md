@@ -35,39 +35,52 @@ The goal of this project is to:
 ***🛠️ Tech Stack Used***
 
 📊 Power BI Desktop – Dashboard development and visualization
+
 📂 Power Query – Data cleaning and transformation
+
 🧠 DAX (Data Analysis Expressions) – Calculated KPIs and measures
+
 📁 Microsoft Excel – Source dataset
+
 📝 Data Modeling – Table relationships and filtering logic
+
 🖼 PNG Export – Dashboard preview for documentation
 
 📂 Data Source
 
-1)The dataset is a retail sales dataset (Excel-based) containing:
-2)Order-level transactional data
-3)Regional sales distribution (Central, East, South, West)
-4)Product categories & sub-categories
-5)Customer segments (Consumer, Corporate, Home Office)
-6)Shipping modes and delivery time
-7)Monthly sales and profit records
-8)This dataset simulates a real-world retail business scenario.
+The dataset is a retail sales dataset (Excel-based) containing:
+
+1)Order-level transactional data
+
+2)Regional sales distribution (Central, East, South, West)
+
+3)Product categories & sub-categories
+
+4)Customer segments (Consumer, Corporate, Home Office)
+
+5)Shipping modes and delivery time
+
+6)Monthly sales and profit records
+
+7)This dataset simulates a real-world retail business scenario.
 
 ***📊 Dashboard Features & Insights***
 **🔢 Key Performance Indicators (KPIs)***
 
 Total Sales: ₹1.6M
+
 Total Profit: ₹175K
+
 Total Orders: 22K
+
 Average Delivery Time: 4 Days
+
 These KPIs give a quick snapshot of overall business health.
 
 ***🌍 Sales by Region**
 
-Visual comparison of performance across:
-West
-East
-Central
-South
+Visual comparison of performance across: West,East,Central,South
+
 ➡ Helps identify high-performing markets.
 
 ***📅 Monthly Sales Trend**
@@ -78,31 +91,27 @@ A time-series analysis showing how sales change throughout the year.
 ***🚚 Sales by Shipping Mode***
 
 Analyzes logistics performance:
-Standard Class dominates usage
-Helps optimize delivery strategy
+
+1)Standard Class dominates usage
+
+2)Helps optimize delivery strategy
 
 ***🛍 Sales by Category***
 
-Top-performing categories include:
-Office Supplies
-Technology
-Furniture
+Top-performing categories include: Office Supplies,Technology,Furniture
+
 ➡ Shows where revenue is generated the most.
 
 **📦 Sales by Sub-Category***
 
-Highlights strong-performing products:
-Phones
-Chairs
-Binders
+Highlights strong-performing products: Phones,Chairs,Binders.
+
 ➡ Helps in inventory planning.
 
 ***👥 Sales by Customer Segment**
 
-Revenue contribution by:
-Consumer
-Corporate
-Home Office
+Revenue contribution by: Consumer,Corporate,Home Office
+
 ➡ Identifies target customer base.
 
 ***🗺 Geographic Sales Distribution**
@@ -113,9 +122,13 @@ Map visualization to track state-wise sales performance.
 ***💡 Business Insights Derived**
 
 ✔ West region contributes the highest revenue
+
 ✔ Consumer segment drives maximum sales
+
 ✔ Office Supplies category dominates order volume
+
 ✔ Standard shipping is most operationally efficient
+
 ✔ Sales show strong growth toward year-end
 
 ***📷 Dashboard Preview**
