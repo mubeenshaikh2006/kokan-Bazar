@@ -1,8 +1,14 @@
 ***🛒 Kokan Bazaar Sales Dashboard***
 
+---
+
 An interactive Power BI Sales Analytics Dashboard built to analyze retail performance, track profit trends, and generate actionable business insights from raw sales data.This project demonstrates how data can be transformed into meaningful visual stories to support smarter business decisions.
 
+---
+
 ***📌 Project Overview***
+
+---
 
 The Kokan Bazaar Sales Dashboard helps understand:
 
@@ -18,7 +24,11 @@ The Kokan Bazaar Sales Dashboard helps understand:
 
 Instead of analyzing spreadsheets manually, this dashboard provides a visual decision-making tool for faster and clearer analysis.
 
+---
+
 ***🎯 Objective***
+
+---
 
 The goal of this project is to:
 
@@ -32,7 +42,11 @@ The goal of this project is to:
 
 5)Practice real-world Data Analyst workflow
 
+---
+
 ***🛠️ Tech Stack Used***
+
+---
 
 📊 Power BI Desktop – Dashboard development and visualization
 
@@ -46,7 +60,11 @@ The goal of this project is to:
 
 🖼 PNG Export – Dashboard preview for documentation
 
+---
+
 ***📂 Data Source***
+
+---
 
 The dataset is a retail sales dataset (Excel-based) containing:
 
@@ -64,8 +82,15 @@ The dataset is a retail sales dataset (Excel-based) containing:
 
 7)This dataset simulates a real-world retail business scenario.
 
+---
+
 ***📊 Dashboard Features & Insights***
+
+---
+
 **🔢 Key Performance Indicators (KPIs)***
+
+---
 
 Total Sales: ₹1.6M
 
@@ -77,18 +102,30 @@ Average Delivery Time: 4 Days
 
 These KPIs give a quick snapshot of overall business health.
 
+---
+
 ***🌍 Sales by Region**
+
+---
 
 Visual comparison of performance across: West,East,Central,South
 
 ➡ Helps identify high-performing markets.
 
+---
+
 ***📅 Monthly Sales Trend**
+
+---
 
 A time-series analysis showing how sales change throughout the year.
 ➡ Useful for detecting seasonal growth patterns.
 
+---
+
 ***🚚 Sales by Shipping Mode***
+
+---
 
 Analyzes logistics performance:
 
@@ -96,30 +133,50 @@ Analyzes logistics performance:
 
 2)Helps optimize delivery strategy
 
+---
+
 ***🛍 Sales by Category***
+
+---
 
 Top-performing categories include: Office Supplies,Technology,Furniture
 
 ➡ Shows where revenue is generated the most.
 
+---
+
 **📦 Sales by Sub-Category***
+
+---
 
 Highlights strong-performing products: Phones,Chairs,Binders.
 
 ➡ Helps in inventory planning.
 
+---
+
 ***👥 Sales by Customer Segment**
+
+---
 
 Revenue contribution by: Consumer,Corporate,Home Office
 
 ➡ Identifies target customer base.
 
+---
+
 ***🗺 Geographic Sales Distribution**
+
+---
 
 Map visualization to track state-wise sales performance.
 ➡ Helps understand location-based demand.
 
+---
+
 ***💡 Business Insights Derived**
+
+---
 
 ✔ West region contributes the highest revenue
 
@@ -131,10 +188,11 @@ Map visualization to track state-wise sales performance.
 
 ✔ Sales show strong growth toward year-end
 
+---
+
 ***📷 Dashboard Preview**
 
+---
 
-6️⃣ Screenshots / Demo
-Dashboard Preview:
 
 ![Dashboard Previe](Dashboard.png)
