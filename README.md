@@ -1,4 +1,4 @@
-***🛒 Kokan Bazaar Sales Dashboard***
+# 🛒 Kokan Bazaar Sales Dashboard
 
 ---
 
@@ -6,7 +6,7 @@ An interactive Power BI Sales Analytics Dashboard built to analyze retail perfor
 
 ---
 
-***📌 Project Overview***
+# 📌 Project Overview
 
 ---
 
@@ -26,7 +26,7 @@ Instead of analyzing spreadsheets manually, this dashboard provides a visual dec
 
 ---
 
-***🎯 Objective***
+# 🎯 Objective
 
 ---
 
@@ -44,7 +44,7 @@ The goal of this project is to:
 
 ---
 
-***🛠️ Tech Stack Used***
+# 🛠️ Tech Stack Used
 
 ---
 
@@ -62,7 +62,7 @@ The goal of this project is to:
 
 ---
 
-***📂 Data Source***
+# 📂 Data Source
 
 ---
 
@@ -84,11 +84,11 @@ The dataset is a retail sales dataset (Excel-based) containing:
 
 ---
 
-***📊 Dashboard Features & Insights***
+# 📊 Dashboard Features & Insights
 
 ---
 
-**🔢 Key Performance Indicators (KPIs)***
+***🔢 Key Performance Indicators (KPIs)***
 
 ---
 
@@ -174,7 +174,7 @@ Map visualization to track state-wise sales performance.
 
 ---
 
-***💡 Business Insights Derived**
+# 💡 Business Insights Derived
 
 ---
 
@@ -190,7 +190,7 @@ Map visualization to track state-wise sales performance.
 
 ---
 
-***📷 Dashboard Preview**
+# 📷 Dashboard Preview
 
 ---
 
